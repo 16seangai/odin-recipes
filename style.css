@@ -1,0 +1,18 @@
+.title {
+    font-size: 36px;
+    text-align: center;
+}
+
+.recipe-link {
+    background-color: burlywood;
+    padding: 32px;
+    border: 1px solid black;
+    margin: 16px;
+    list-style-type: none;
+    font-size: 24px;
+    color: white;
+}
+
+.recipe-link:hover {
+    background-color: mintcream;
+}
